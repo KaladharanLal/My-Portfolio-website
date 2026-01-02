@@ -337,11 +337,6 @@ section{
     background-color: blue;
 }
 
-.skills .content .col-right .bar .php::before{
-    width: 65%;
-    background-color: #6d7eb8;
-}
-
 /* Services */
 
 .services .content{
